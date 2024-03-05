@@ -1,0 +1,1106 @@
+"Number","Address","Data","Content","Time","AUX",
+"0.0","0000","0000","TRIGGER",">104.929285466 s ","0000",
+"1.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490347417 s 
+1.183 us
+3.490347417 s 
+1.183 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"2.0","00.14D6","02D6","debugIOFaultDriver","200 ns
+400 ns","0000",
+"","","","Memory Write","","",
+"3.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"4.0","00.14D4","00D4","debugIOFaultArg","3.490345834 s 
+3.490345834 s ","0000",
+"","","","Memory Write","","",
+"6.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502282383 s 
+1.502282383 s 
+1.502282383 s 
+1.502282383 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"8.0","00.DEBA","DE50","(void)_asm ("orcc #0x50\n");","204.605233 ms
+204.607267 ms
+204.605233 ms
+204.605233 ms","0000",
+"","","","systemFault","","",
+"","","","DE50 LDX      TC0 (50)","","",
+"","","","OP-CODE Fetch","","",
+"10.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249507217 s 
+8.249507217 s 
+2.034 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"11.0","00.003C","443C","COPCTL","19.224883 ms
+19.224883 ms","0000",
+"","","","Memory Write","","",
+"13.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+367 ns
+367 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"14.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936383 ms
+7.936383 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"15.0","00.14D4","01D4","debugIOFaultArg","133 ns
+133 ns","0000",
+"","","","Memory Write","","",
+"16.0","00.14D4","02D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"17.0","00.14D4","04D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"18.0","00.14D4","08D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"19.0","00.14D4","10D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"20.0","00.14D4","20D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"21.0","00.14D4","40D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"22.0","00.14D4","80D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"23.0","00.14D4","00D4","debugIOFaultArg","483 ns
+2.233 us","0000",
+"","","","Memory Write","","",
+"24.0","00.14D4","1401","debugIOFaultCode","133 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"25.0","00.14D4","1402","debugIOFaultCode","150 ns
+1.617 us","0000",
+"","","","Memory Write","","",
+"26.0","00.14D4","1404","debugIOFaultCode","167 ns
+1.467 us","0000",
+"","","","Memory Write","","",
+"27.0","00.14D4","1408","debugIOFaultCode","167 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"28.0","00.14D4","1410","debugIOFaultCode","166 ns
+1.133 us","0000",
+"","","","Memory Write","","",
+"29.0","00.14D4","1420","debugIOFaultCode","150 ns
+967 ns","0000",
+"","","","Memory Write","","",
+"30.0","00.14D4","1440","debugIOFaultCode","167 ns
+817 ns","0000",
+"","","","Memory Write","","",
+"31.0","00.14D4","1480","debugIOFaultCode","167 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"32.0","00.14D4","1400","debugIOFaultCode","483 ns
+483 ns","0000",
+"","","","Memory Write","","",
+"33.0","00.14D6","01D6","debugIOFaultDriver","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"34.0","00.14D6","02D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"35.0","00.14D6","04D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"36.0","00.14D6","08D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"37.0","00.14D6","10D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"38.0","00.14D6","20D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"39.0","00.14D6","40D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"40.0","00.14D6","80D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"41.0","00.14D6","00D6","debugIOFaultDriver","19.645783 ms
+19.645783 ms","0000",
+"","","","Memory Write","","",
+"43.0","00.14D4","00D4","debugIOFaultArg","300 ns
+583 ns","0000",
+"","","","Memory Write","","",
+"44.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"45.0","00.14D6","00D6","debugIOFaultDriver","8.202692417 s 
+8.202692417 s ","0000",
+"","","","Memory Write","","",
+"47.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490340783 s 
+1.167 us
+3.490340783 s 
+1.167 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"48.0","00.14D6","02D6","debugIOFaultDriver","200 ns
+416 ns","0000",
+"","","","Memory Write","","",
+"49.0","00.14D4","1405","debugIOFaultCode","216 ns
+216 ns","0000",
+"","","","Memory Write","","",
+"50.0","00.14D4","00D4","debugIOFaultArg","3.490339200 s 
+3.490339200 s ","0000",
+"","","","Memory Write","","",
+"52.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502274600 s 
+1.502274600 s 
+1.502274600 s 
+1.502274600 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"54.0","00.DEBA","DE52","(void)_asm ("orcc #0x50\n");","204.609367 ms
+204.611417 ms
+204.609367 ms
+204.609367 ms","0000",
+"","","","systemFault","","",
+"","","","DE52 LDX      TC1 (52)","","",
+"","","","OP-CODE Fetch","","",
+"56.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249517417 s 
+8.249517417 s 
+2.050 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"57.0","00.003C","443C","COPCTL","19.224983 ms
+19.224983 ms","0000",
+"","","","Memory Write","","",
+"59.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+350 ns
+350 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"60.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936417 ms
+7.936417 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"61.0","00.14D4","01D4","debugIOFaultArg","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"62.0","00.14D4","02D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"63.0","00.14D4","04D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"64.0","00.14D4","08D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"65.0","00.14D4","10D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"66.0","00.14D4","20D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"67.0","00.14D4","40D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"68.0","00.14D4","80D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"69.0","00.14D4","00D4","debugIOFaultArg","483 ns
+2.233 us","0000",
+"","","","Memory Write","","",
+"70.0","00.14D4","1401","debugIOFaultCode","117 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"71.0","00.14D4","1402","debugIOFaultCode","166 ns
+1.633 us","0000",
+"","","","Memory Write","","",
+"72.0","00.14D4","1404","debugIOFaultCode","167 ns
+1.467 us","0000",
+"","","","Memory Write","","",
+"73.0","00.14D4","1408","debugIOFaultCode","150 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"74.0","00.14D4","1410","debugIOFaultCode","167 ns
+1.150 us","0000",
+"","","","Memory Write","","",
+"75.0","00.14D4","1420","debugIOFaultCode","166 ns
+983 ns","0000",
+"","","","Memory Write","","",
+"76.0","00.14D4","1440","debugIOFaultCode","167 ns
+817 ns","0000",
+"","","","Memory Write","","",
+"77.0","00.14D4","1480","debugIOFaultCode","150 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"78.0","00.14D4","1400","debugIOFaultCode","500 ns
+500 ns","0000",
+"","","","Memory Write","","",
+"79.0","00.14D6","01D6","debugIOFaultDriver","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"80.0","00.14D6","02D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"81.0","00.14D6","04D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"82.0","00.14D6","08D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"83.0","00.14D6","10D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"84.0","00.14D6","20D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"85.0","00.14D6","40D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"86.0","00.14D6","80D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"87.0","00.14D6","00D6","debugIOFaultDriver","19.645783 ms
+19.645783 ms","0000",
+"","","","Memory Write","","",
+"89.0","00.14D4","00D4","debugIOFaultArg","284 ns
+584 ns","0000",
+"","","","Memory Write","","",
+"90.0","00.14D4","1400","debugIOFaultCode","300 ns
+300 ns","0000",
+"","","","Memory Write","","",
+"91.0","00.14D6","00D6","debugIOFaultDriver","8.202702500 s 
+8.202702500 s ","0000",
+"","","","Memory Write","","",
+"93.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490296833 s 
+1.183 us
+3.490296833 s 
+1.183 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"94.0","00.14D6","02D6","debugIOFaultDriver","200 ns
+400 ns","0000",
+"","","","Memory Write","","",
+"95.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"96.0","00.14D4","00D4","debugIOFaultArg","3.490295250 s 
+3.490295250 s ","0000",
+"","","","Memory Write","","",
+"98.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502304283 s 
+1.502304283 s 
+1.502304283 s 
+1.502304283 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"100.0","00.DEBA","DE50","(void)_asm ("orcc #0x50\n");","204.685467 ms
+204.687500 ms
+204.685467 ms
+204.685467 ms","0000",
+"","","","systemFault","","",
+"","","","DE50 LDX      TC0 (50)","","",
+"","","","OP-CODE Fetch","","",
+"102.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249468667 s 
+8.249468667 s 
+2.033 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"103.0","00.003C","443C","COPCTL","19.224917 ms
+19.224917 ms","0000",
+"","","","Memory Write","","",
+"105.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+367 ns
+367 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"106.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936400 ms
+7.936400 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"107.0","00.14D4","01D4","debugIOFaultArg","116 ns
+116 ns","0000",
+"","","","Memory Write","","",
+"108.0","00.14D4","02D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"109.0","00.14D4","04D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"110.0","00.14D4","08D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"111.0","00.14D4","10D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"112.0","00.14D4","20D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"113.0","00.14D4","40D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"114.0","00.14D4","80D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"115.0","00.14D4","00D4","debugIOFaultArg","483 ns
+2.233 us","0000",
+"","","","Memory Write","","",
+"116.0","00.14D4","1401","debugIOFaultCode","133 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"117.0","00.14D4","1402","debugIOFaultCode","167 ns
+1.617 us","0000",
+"","","","Memory Write","","",
+"118.0","00.14D4","1404","debugIOFaultCode","150 ns
+1.450 us","0000",
+"","","","Memory Write","","",
+"119.0","00.14D4","1408","debugIOFaultCode","167 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"120.0","00.14D4","1410","debugIOFaultCode","166 ns
+1.133 us","0000",
+"","","","Memory Write","","",
+"121.0","00.14D4","1420","debugIOFaultCode","167 ns
+967 ns","0000",
+"","","","Memory Write","","",
+"122.0","00.14D4","1440","debugIOFaultCode","150 ns
+800 ns","0000",
+"","","","Memory Write","","",
+"123.0","00.14D4","1480","debugIOFaultCode","167 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"124.0","00.14D4","1400","debugIOFaultCode","483 ns
+483 ns","0000",
+"","","","Memory Write","","",
+"125.0","00.14D6","01D6","debugIOFaultDriver","133 ns
+133 ns","0000",
+"","","","Memory Write","","",
+"126.0","00.14D6","02D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"127.0","00.14D6","04D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"128.0","00.14D6","08D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"129.0","00.14D6","10D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"130.0","00.14D6","20D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"131.0","00.14D6","40D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"132.0","00.14D6","80D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"133.0","00.14D6","00D6","debugIOFaultDriver","19.645800 ms
+19.645800 ms","0000",
+"","","","Memory Write","","",
+"135.0","00.14D4","00D4","debugIOFaultArg","283 ns
+566 ns","0000",
+"","","","Memory Write","","",
+"136.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"137.0","00.14D6","00D6","debugIOFaultDriver","8.202653834 s 
+8.202653834 s ","0000",
+"","","","Memory Write","","",
+"139.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490345766 s 
+1.183 us
+3.490345766 s 
+1.183 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"140.0","00.14D6","02D6","debugIOFaultDriver","200 ns
+400 ns","0000",
+"","","","Memory Write","","",
+"141.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"142.0","00.14D4","00D4","debugIOFaultArg","3.490344183 s 
+3.490344183 s ","0000",
+"","","","Memory Write","","",
+"144.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502298717 s 
+1.502298717 s 
+1.502298717 s 
+1.502298717 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"146.0","00.DEBA","DE52","(void)_asm ("orcc #0x50\n");","204.649150 ms
+204.651183 ms
+204.649150 ms
+204.649150 ms","0000",
+"","","","systemFault","","",
+"","","","DE52 LDX      TC1 (52)","","",
+"","","","OP-CODE Fetch","","",
+"148.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249464350 s 
+8.249464350 s 
+2.033 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"149.0","00.003C","443C","COPCTL","19.225034 ms
+19.225034 ms","0000",
+"","","","Memory Write","","",
+"151.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+366 ns
+366 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"152.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936400 ms
+7.936400 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"153.0","00.14D4","01D4","debugIOFaultArg","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"154.0","00.14D4","02D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"155.0","00.14D4","04D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"156.0","00.14D4","08D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"157.0","00.14D4","10D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"158.0","00.14D4","20D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"159.0","00.14D4","40D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"160.0","00.14D4","80D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"161.0","00.14D4","00D4","debugIOFaultArg","484 ns
+2.234 us","0000",
+"","","","Memory Write","","",
+"162.0","00.14D4","1401","debugIOFaultCode","133 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"163.0","00.14D4","1402","debugIOFaultCode","167 ns
+1.617 us","0000",
+"","","","Memory Write","","",
+"164.0","00.14D4","1404","debugIOFaultCode","150 ns
+1.450 us","0000",
+"","","","Memory Write","","",
+"165.0","00.14D4","1408","debugIOFaultCode","166 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"166.0","00.14D4","1410","debugIOFaultCode","167 ns
+1.134 us","0000",
+"","","","Memory Write","","",
+"167.0","00.14D4","1420","debugIOFaultCode","167 ns
+967 ns","0000",
+"","","","Memory Write","","",
+"168.0","00.14D4","1440","debugIOFaultCode","150 ns
+800 ns","0000",
+"","","","Memory Write","","",
+"169.0","00.14D4","1480","debugIOFaultCode","166 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"170.0","00.14D4","1400","debugIOFaultCode","484 ns
+484 ns","0000",
+"","","","Memory Write","","",
+"171.0","00.14D6","01D6","debugIOFaultDriver","133 ns
+133 ns","0000",
+"","","","Memory Write","","",
+"172.0","00.14D6","02D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"173.0","00.14D6","04D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"174.0","00.14D6","08D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"175.0","00.14D6","10D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"176.0","00.14D6","20D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"177.0","00.14D6","40D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"178.0","00.14D6","80D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"179.0","00.14D6","00D6","debugIOFaultDriver","19.645784 ms
+19.645784 ms","0000",
+"","","","Memory Write","","",
+"181.0","00.14D4","00D4","debugIOFaultArg","283 ns
+566 ns","0000",
+"","","","Memory Write","","",
+"182.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"183.0","00.14D6","00D6","debugIOFaultDriver","8.202649417 s 
+8.202649417 s ","0000",
+"","","","Memory Write","","",
+"185.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490375867 s 
+1.183 us
+3.490375867 s 
+1.183 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"186.0","00.14D6","02D6","debugIOFaultDriver","200 ns
+400 ns","0000",
+"","","","Memory Write","","",
+"187.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"188.0","00.14D4","00D4","debugIOFaultArg","3.490374284 s 
+3.490374284 s ","0000",
+"","","","Memory Write","","",
+"190.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502273916 s 
+1.502273916 s 
+1.502273916 s 
+1.502273916 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"192.0","00.DEBA","DE50","(void)_asm ("orcc #0x50\n");","204.685400 ms
+204.687434 ms
+204.685400 ms
+204.685400 ms","0000",
+"","","","systemFault","","",
+"","","","DE50 LDX      TC0 (50)","","",
+"","","","OP-CODE Fetch","","",
+"194.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249467284 s 
+8.249467284 s 
+2.034 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"195.0","00.003C","443C","COPCTL","19.224900 ms
+19.224900 ms","0000",
+"","","","Memory Write","","",
+"197.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+366 ns
+366 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"198.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936400 ms
+7.936400 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"199.0","00.14D4","01D4","debugIOFaultArg","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"200.0","00.14D4","02D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"201.0","00.14D4","04D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"202.0","00.14D4","08D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"203.0","00.14D4","10D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"204.0","00.14D4","20D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"205.0","00.14D4","40D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"206.0","00.14D4","80D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"207.0","00.14D4","00D4","debugIOFaultArg","483 ns
+2.233 us","0000",
+"","","","Memory Write","","",
+"208.0","00.14D4","1401","debugIOFaultCode","117 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"209.0","00.14D4","1402","debugIOFaultCode","167 ns
+1.633 us","0000",
+"","","","Memory Write","","",
+"210.0","00.14D4","1404","debugIOFaultCode","166 ns
+1.466 us","0000",
+"","","","Memory Write","","",
+"211.0","00.14D4","1408","debugIOFaultCode","167 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"212.0","00.14D4","1410","debugIOFaultCode","150 ns
+1.133 us","0000",
+"","","","Memory Write","","",
+"213.0","00.14D4","1420","debugIOFaultCode","167 ns
+983 ns","0000",
+"","","","Memory Write","","",
+"214.0","00.14D4","1440","debugIOFaultCode","166 ns
+816 ns","0000",
+"","","","Memory Write","","",
+"215.0","00.14D4","1480","debugIOFaultCode","167 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"216.0","00.14D4","1400","debugIOFaultCode","483 ns
+483 ns","0000",
+"","","","Memory Write","","",
+"217.0","00.14D6","01D6","debugIOFaultDriver","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"218.0","00.14D6","02D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"219.0","00.14D6","04D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"220.0","00.14D6","08D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"221.0","00.14D6","10D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"222.0","00.14D6","20D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"223.0","00.14D6","40D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"224.0","00.14D6","80D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"225.0","00.14D6","00D6","debugIOFaultDriver","19.645800 ms
+19.645800 ms","0000",
+"","","","Memory Write","","",
+"227.0","00.14D4","00D4","debugIOFaultArg","284 ns
+567 ns","0000",
+"","","","Memory Write","","",
+"228.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"229.0","00.14D6","00D6","debugIOFaultDriver","8.202652467 s 
+8.202652467 s ","0000",
+"","","","Memory Write","","",
+"231.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490346550 s 
+1.166 us
+3.490346550 s 
+1.166 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"232.0","00.14D6","02D6","debugIOFaultDriver","217 ns
+417 ns","0000",
+"","","","Memory Write","","",
+"233.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"234.0","00.14D4","00D4","debugIOFaultArg","3.490344967 s 
+3.490344967 s ","0000",
+"","","","Memory Write","","",
+"236.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502301066 s 
+1.502301066 s 
+1.502301066 s 
+1.502301066 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"238.0","00.DEBA","DE50","(void)_asm ("orcc #0x50\n");","204.634350 ms
+204.636384 ms
+204.634350 ms
+204.634350 ms","0000",
+"","","","systemFault","","",
+"","","","DE50 LDX      TC0 (50)","","",
+"","","","OP-CODE Fetch","","",
+"240.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249551400 s 
+8.249551400 s 
+2.034 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"241.0","00.003C","443C","COPCTL","19.224916 ms
+19.224916 ms","0000",
+"","","","Memory Write","","",
+"243.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+367 ns
+367 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"244.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936400 ms
+7.936400 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"245.0","00.14D4","01D4","debugIOFaultArg","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"246.0","00.14D4","02D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"247.0","00.14D4","04D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"248.0","00.14D4","08D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"249.0","00.14D4","10D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"250.0","00.14D4","20D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"251.0","00.14D4","40D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"252.0","00.14D4","80D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"253.0","00.14D4","00D4","debugIOFaultArg","483 ns
+2.233 us","0000",
+"","","","Memory Write","","",
+"254.0","00.14D4","1401","debugIOFaultCode","134 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"255.0","00.14D4","1402","debugIOFaultCode","166 ns
+1.616 us","0000",
+"","","","Memory Write","","",
+"256.0","00.14D4","1404","debugIOFaultCode","150 ns
+1.450 us","0000",
+"","","","Memory Write","","",
+"257.0","00.14D4","1408","debugIOFaultCode","167 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"258.0","00.14D4","1410","debugIOFaultCode","167 ns
+1.133 us","0000",
+"","","","Memory Write","","",
+"259.0","00.14D4","1420","debugIOFaultCode","150 ns
+966 ns","0000",
+"","","","Memory Write","","",
+"260.0","00.14D4","1440","debugIOFaultCode","166 ns
+816 ns","0000",
+"","","","Memory Write","","",
+"261.0","00.14D4","1480","debugIOFaultCode","167 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"262.0","00.14D4","1400","debugIOFaultCode","483 ns
+483 ns","0000",
+"","","","Memory Write","","",
+"263.0","00.14D6","01D6","debugIOFaultDriver","134 ns
+134 ns","0000",
+"","","","Memory Write","","",
+"264.0","00.14D6","02D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"265.0","00.14D6","04D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"266.0","00.14D6","08D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"267.0","00.14D6","10D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"268.0","00.14D6","20D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"269.0","00.14D6","40D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"270.0","00.14D6","80D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"271.0","00.14D6","00D6","debugIOFaultDriver","19.645783 ms
+19.645783 ms","0000",
+"","","","Memory Write","","",
+"273.0","00.14D4","00D4","debugIOFaultArg","284 ns
+567 ns","0000",
+"","","","Memory Write","","",
+"274.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"275.0","00.14D6","00D6","debugIOFaultDriver","8.202736583 s 
+8.202736583 s ","0000",
+"","","","Memory Write","","",
+"277.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490262450 s 
+1.167 us
+3.490262450 s 
+1.167 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"278.0","00.14D6","02D6","debugIOFaultDriver","217 ns
+417 ns","0000",
+"","","","Memory Write","","",
+"279.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"280.0","00.14D4","00D4","debugIOFaultArg","3.490260866 s 
+3.490260866 s ","0000",
+"","","","Memory Write","","",
+"282.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502357867 s 
+1.502357867 s 
+1.502357867 s 
+1.502357867 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"284.0","00.DEBA","DE52","(void)_asm ("orcc #0x50\n");","204.572283 ms
+204.574317 ms
+204.572283 ms
+204.572283 ms","0000",
+"","","","systemFault","","",
+"","","","DE52 LDX      TC1 (52)","","",
+"","","","OP-CODE Fetch","","",
+"286.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM","8.249535034 s 
+8.249535034 s 
+2.034 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"287.0","00.003C","443C","COPCTL","19.251433 ms
+19.251433 ms","0000",
+"","","","Memory Write","","",
+"289.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+367 ns
+367 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"290.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936400 ms
+7.936400 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"291.0","00.14D4","01D4","debugIOFaultArg","116 ns
+116 ns","0000",
+"","","","Memory Write","","",
+"292.0","00.14D4","02D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"293.0","00.14D4","04D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"294.0","00.14D4","08D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"295.0","00.14D4","10D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"296.0","00.14D4","20D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"297.0","00.14D4","40D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"298.0","00.14D4","80D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"299.0","00.14D4","00D4","debugIOFaultArg","484 ns
+2.234 us","0000",
+"","","","Memory Write","","",
+"300.0","00.14D4","1401","debugIOFaultCode","116 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"301.0","00.14D4","1402","debugIOFaultCode","167 ns
+1.634 us","0000",
+"","","","Memory Write","","",
+"302.0","00.14D4","1404","debugIOFaultCode","167 ns
+1.467 us","0000",
+"","","","Memory Write","","",
+"303.0","00.14D4","1408","debugIOFaultCode","166 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"304.0","00.14D4","1410","debugIOFaultCode","150 ns
+1.134 us","0000",
+"","","","Memory Write","","",
+"305.0","00.14D4","1420","debugIOFaultCode","167 ns
+984 ns","0000",
+"","","","Memory Write","","",
+"306.0","00.14D4","1440","debugIOFaultCode","167 ns
+817 ns","0000",
+"","","","Memory Write","","",
+"307.0","00.14D4","1480","debugIOFaultCode","166 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"308.0","00.14D4","1400","debugIOFaultCode","484 ns
+484 ns","0000",
+"","","","Memory Write","","",
+"309.0","00.14D6","01D6","debugIOFaultDriver","116 ns
+116 ns","0000",
+"","","","Memory Write","","",
+"310.0","00.14D6","02D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"311.0","00.14D6","04D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"312.0","00.14D6","08D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"313.0","00.14D6","10D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"314.0","00.14D6","20D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"315.0","00.14D6","40D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"316.0","00.14D6","80D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"317.0","00.14D6","00D6","debugIOFaultDriver","19.645784 ms
+19.645784 ms","0000",
+"","","","Memory Write","","",
+"319.0","00.14D4","00D4","debugIOFaultArg","283 ns
+566 ns","0000",
+"","","","Memory Write","","",
+"320.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"321.0","00.14D6","00D6","debugIOFaultDriver","8.202693684 s 
+8.202693684 s ","0000",
+"","","","Memory Write","","",
+"323.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","3.490301516 s 
+1.183 us
+3.490301516 s 
+1.183 us","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"324.0","00.14D6","02D6","debugIOFaultDriver","200 ns
+400 ns","0000",
+"","","","Memory Write","","",
+"325.0","00.14D4","1405","debugIOFaultCode","200 ns
+200 ns","0000",
+"","","","Memory Write","","",
+"326.0","00.14D4","00D4","debugIOFaultArg","3.490299933 s 
+3.490299933 s ","0000",
+"","","","Memory Write","","",
+"328.0","00.DEC0","FF3B","void ioFault (IO_FAULT_DRIVER id, IO_FAULT_CODE code, IO_FAULT_ARG arg)","1.502317417 s 
+1.502317417 s 
+1.502317417 s 
+1.502317417 s ","0000",
+"","","","ioFault","","",
+"","","","3B PSHD     ","","",
+"","","","OP-CODE Fetch","","",
+"330.0","00.DEBA","DE52","(void)_asm ("orcc #0x50\n");","204.605067 ms
+204.607100 ms
+204.605067 ms
+204.605067 ms","0000",
+"","","","systemFault","","",
+"","","","DE52 LDX      TC1 (52)","","",
+"","","","OP-CODE Fetch","","",
+"332.0","00.D126","D744","ldab    #0x44       ; Select 2**20 divisor and suspend on BDM",">46.814816 ms
+>46.814816 ms
+2.033 us","0000",
+"","","","D7 TSTB     ","","",
+"","","","OP-CODE Fetch","","",
+"333.0","00.003C","443C","COPCTL","19.224900 ms
+19.224900 ms","0000",
+"","","","Memory Write","","",
+"335.0","00.14D4","3FEC","debugIOFaultArg","0 ns
+367 ns
+367 ns","0000",
+"","","","debugIOFaultCode","","",
+"","","","Memory Write","","",
+"336.0","00.14D6","42E7","debugIOFaultDriver","0 ns
+7.936416 ms
+7.936416 ms","0000",
+"","","","CfgRxBuf","","",
+"","","","Memory Write","","",
+"337.0","00.14D4","01D4","debugIOFaultArg","117 ns
+117 ns","0000",
+"","","","Memory Write","","",
+"338.0","00.14D4","02D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"339.0","00.14D4","04D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"340.0","00.14D4","08D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"341.0","00.14D4","10D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"342.0","00.14D4","20D4","debugIOFaultArg","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"343.0","00.14D4","40D4","debugIOFaultArg","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"344.0","00.14D4","80D4","debugIOFaultArg","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"345.0","00.14D4","00D4","debugIOFaultArg","484 ns
+2.234 us","0000",
+"","","","Memory Write","","",
+"346.0","00.14D4","1401","debugIOFaultCode","133 ns
+1.750 us","0000",
+"","","","Memory Write","","",
+"347.0","00.14D4","1402","debugIOFaultCode","167 ns
+1.617 us","0000",
+"","","","Memory Write","","",
+"348.0","00.14D4","1404","debugIOFaultCode","150 ns
+1.450 us","0000",
+"","","","Memory Write","","",
+"349.0","00.14D4","1408","debugIOFaultCode","166 ns
+1.300 us","0000",
+"","","","Memory Write","","",
+"350.0","00.14D4","1410","debugIOFaultCode","167 ns
+1.134 us","0000",
+"","","","Memory Write","","",
+"351.0","00.14D4","1420","debugIOFaultCode","167 ns
+967 ns","0000",
+"","","","Memory Write","","",
+"352.0","00.14D4","1440","debugIOFaultCode","150 ns
+800 ns","0000",
+"","","","Memory Write","","",
+"353.0","00.14D4","1480","debugIOFaultCode","166 ns
+650 ns","0000",
+"","","","Memory Write","","",
+"354.0","00.14D4","1400","debugIOFaultCode","484 ns
+484 ns","0000",
+"","","","Memory Write","","",
+"355.0","00.14D6","01D6","debugIOFaultDriver","133 ns
+133 ns","0000",
+"","","","Memory Write","","",
+"356.0","00.14D6","02D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"357.0","00.14D6","04D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"358.0","00.14D6","08D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"359.0","00.14D6","10D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"360.0","00.14D6","20D6","debugIOFaultDriver","150 ns
+150 ns","0000",
+"","","","Memory Write","","",
+"361.0","00.14D6","40D6","debugIOFaultDriver","167 ns
+167 ns","0000",
+"","","","Memory Write","","",
+"362.0","00.14D6","80D6","debugIOFaultDriver","166 ns
+166 ns","0000",
+"","","","Memory Write","","",
+"363.0","00.14D6","00D6","debugIOFaultDriver","19.645784 ms
+19.645784 ms","0000",
+"","","","Memory Write","","",
+"365.0","00.14D4","00D4","debugIOFaultArg","283 ns
+566 ns","0000",
+"","","","Memory Write","","",
+"366.0","00.14D4","1400","debugIOFaultCode","283 ns
+283 ns","0000",
+"","","","Memory Write","","",
+"367.0","00.14D6","00D6","debugIOFaultDriver",">1 ns
+>1 ns","0000",
+"","","","Memory Write","","",

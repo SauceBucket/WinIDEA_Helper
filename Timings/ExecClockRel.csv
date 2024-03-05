@@ -1,0 +1,1700 @@
+"Number","Address","Data","Content","Time","AUX",
+"0.0","0000","0000","TRIGGER",">5.659166083 s ","0000",
+"1.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"3.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"5.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"7.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"9.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"11.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"13.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"15.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"17.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"19.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"21.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"23.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"25.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"27.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"29.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"31.0","00.DE70","FFB7"," INVALID_OPCODE","10.002067 ms
+10.002067 ms","0000",
+"","","","OP-CODE Fetch","","",
+"33.0","00.DE70","FFB7"," INVALID_OPCODE","9.998633 ms
+9.998633 ms","0000",
+"","","","OP-CODE Fetch","","",
+"35.0","00.DE70","FFB7"," INVALID_OPCODE","10.000634 ms
+10.000634 ms","0000",
+"","","","OP-CODE Fetch","","",
+"37.0","00.DE70","FFB7"," INVALID_OPCODE","9.999900 ms
+9.999900 ms","0000",
+"","","","OP-CODE Fetch","","",
+"39.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"41.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"43.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"45.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"47.0","00.DE70","FFB7"," INVALID_OPCODE","10.001217 ms
+10.001217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"49.0","00.DE70","FFB7"," INVALID_OPCODE","9.999466 ms
+9.999466 ms","0000",
+"","","","OP-CODE Fetch","","",
+"51.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"53.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"55.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"57.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"59.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"61.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"63.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"65.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"67.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"69.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"71.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"73.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"75.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"77.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"79.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"81.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"83.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"85.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"87.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"89.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"91.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"93.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"95.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"97.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"99.0","00.DE70","FFB7"," INVALID_OPCODE","10.000583 ms
+10.000583 ms","0000",
+"","","","OP-CODE Fetch","","",
+"101.0","00.DE70","FFB7"," INVALID_OPCODE","10.000017 ms
+10.000017 ms","0000",
+"","","","OP-CODE Fetch","","",
+"103.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"105.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"107.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"109.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"111.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"113.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"115.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"117.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"119.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"121.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"123.0","00.DE70","FFB7"," INVALID_OPCODE","10.000517 ms
+10.000517 ms","0000",
+"","","","OP-CODE Fetch","","",
+"125.0","00.DE70","FFB7"," INVALID_OPCODE","10.000117 ms
+10.000117 ms","0000",
+"","","","OP-CODE Fetch","","",
+"127.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"129.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"131.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"133.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"135.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"137.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"139.0","00.DE70","FFB7"," INVALID_OPCODE","10.001366 ms
+10.001366 ms","0000",
+"","","","OP-CODE Fetch","","",
+"141.0","00.DE70","FFB7"," INVALID_OPCODE","9.999217 ms
+9.999217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"143.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"145.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"147.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"149.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"151.0","00.DE70","FFB7"," INVALID_OPCODE","10.000433 ms
+10.000433 ms","0000",
+"","","","OP-CODE Fetch","","",
+"153.0","00.DE70","FFB7"," INVALID_OPCODE","10.000133 ms
+10.000133 ms","0000",
+"","","","OP-CODE Fetch","","",
+"155.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"157.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"159.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"161.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"163.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"165.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"167.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"169.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"171.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"173.0","00.DE70","FFB7"," INVALID_OPCODE","10.000516 ms
+10.000516 ms","0000",
+"","","","OP-CODE Fetch","","",
+"175.0","00.DE70","FFB7"," INVALID_OPCODE","10.000100 ms
+10.000100 ms","0000",
+"","","","OP-CODE Fetch","","",
+"177.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"179.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"181.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"183.0","00.DE70","FFB7"," INVALID_OPCODE","10.000550 ms
+10.000550 ms","0000",
+"","","","OP-CODE Fetch","","",
+"185.0","00.DE70","FFB7"," INVALID_OPCODE","9.999984 ms
+9.999984 ms","0000",
+"","","","OP-CODE Fetch","","",
+"187.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"189.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"191.0","00.DE70","FFB7"," INVALID_OPCODE","10.000200 ms
+10.000200 ms","0000",
+"","","","OP-CODE Fetch","","",
+"193.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"195.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"197.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"199.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"201.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"203.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"205.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"207.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"209.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"211.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"213.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"215.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"217.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"219.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"221.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"223.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"225.0","00.DE70","FFB7"," INVALID_OPCODE","10.000883 ms
+10.000883 ms","0000",
+"","","","OP-CODE Fetch","","",
+"227.0","00.DE70","FFB7"," INVALID_OPCODE","9.999783 ms
+9.999783 ms","0000",
+"","","","OP-CODE Fetch","","",
+"229.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"231.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"233.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"235.0","00.DE70","FFB7"," INVALID_OPCODE","10.005283 ms
+10.005283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"237.0","00.DE70","FFB7"," INVALID_OPCODE","9.995284 ms
+9.995284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"239.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"241.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"243.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"245.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"247.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"249.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"251.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"253.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"255.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"257.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"259.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"261.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"263.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"265.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"267.0","00.DE70","FFB7"," INVALID_OPCODE","10.000550 ms
+10.000550 ms","0000",
+"","","","OP-CODE Fetch","","",
+"269.0","00.DE70","FFB7"," INVALID_OPCODE","10.000067 ms
+10.000067 ms","0000",
+"","","","OP-CODE Fetch","","",
+"271.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"273.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"275.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"277.0","00.DE70","FFB7"," INVALID_OPCODE","10.000366 ms
+10.000366 ms","0000",
+"","","","OP-CODE Fetch","","",
+"279.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"281.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"283.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"285.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"287.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"289.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"291.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"293.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"295.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"297.0","00.DE70","FFB7"," INVALID_OPCODE","10.000450 ms
+10.000450 ms","0000",
+"","","","OP-CODE Fetch","","",
+"299.0","00.DE70","FFB7"," INVALID_OPCODE","10.000133 ms
+10.000133 ms","0000",
+"","","","OP-CODE Fetch","","",
+"301.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"303.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"305.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"307.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"309.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"311.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"313.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"315.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"317.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"319.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"321.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"323.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"325.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"327.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"329.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"331.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"333.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"335.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"337.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"339.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"341.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"343.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"345.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"347.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"349.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"351.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"353.0","00.DE70","FFB7"," INVALID_OPCODE","10.000434 ms
+10.000434 ms","0000",
+"","","","OP-CODE Fetch","","",
+"355.0","00.DE70","FFB7"," INVALID_OPCODE","10.000200 ms
+10.000200 ms","0000",
+"","","","OP-CODE Fetch","","",
+"357.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"359.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"361.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"363.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"365.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"367.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"369.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"371.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"373.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"375.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"377.0","00.DE70","FFB7"," INVALID_OPCODE","10.000850 ms
+10.000850 ms","0000",
+"","","","OP-CODE Fetch","","",
+"379.0","00.DE70","FFB7"," INVALID_OPCODE","9.999650 ms
+9.999650 ms","0000",
+"","","","OP-CODE Fetch","","",
+"381.0","00.DE70","FFB7"," INVALID_OPCODE","10.000416 ms
+10.000416 ms","0000",
+"","","","OP-CODE Fetch","","",
+"383.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"385.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"387.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"389.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"391.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"393.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"395.0","00.DE70","FFB7"," INVALID_OPCODE","10.001617 ms
+10.001617 ms","0000",
+"","","","OP-CODE Fetch","","",
+"397.0","00.DE70","FFB7"," INVALID_OPCODE","9.998950 ms
+9.998950 ms","0000",
+"","","","OP-CODE Fetch","","",
+"399.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"401.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"403.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"405.0","00.DE70","FFB7"," INVALID_OPCODE","10.000433 ms
+10.000433 ms","0000",
+"","","","OP-CODE Fetch","","",
+"407.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"409.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"411.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"413.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"415.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"417.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"419.0","00.DE70","FFB7"," INVALID_OPCODE","10.000433 ms
+10.000433 ms","0000",
+"","","","OP-CODE Fetch","","",
+"421.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"423.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"425.0","00.DE70","FFB7"," INVALID_OPCODE","10.002233 ms
+10.002233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"427.0","00.DE70","FFB7"," INVALID_OPCODE","9.998300 ms
+9.998300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"429.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"431.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"433.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"435.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"437.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"439.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"441.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"443.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"445.0","00.DE70","FFB7"," INVALID_OPCODE","10.000600 ms
+10.000600 ms","0000",
+"","","","OP-CODE Fetch","","",
+"447.0","00.DE70","FFB7"," INVALID_OPCODE","10.000016 ms
+10.000016 ms","0000",
+"","","","OP-CODE Fetch","","",
+"449.0","00.DE70","FFB7"," INVALID_OPCODE","10.000434 ms
+10.000434 ms","0000",
+"","","","OP-CODE Fetch","","",
+"451.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"453.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"455.0","00.DE70","FFB7"," INVALID_OPCODE","10.000200 ms
+10.000200 ms","0000",
+"","","","OP-CODE Fetch","","",
+"457.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"459.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"461.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"463.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"465.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"467.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"469.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"471.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"473.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"475.0","00.DE70","FFB7"," INVALID_OPCODE","10.000484 ms
+10.000484 ms","0000",
+"","","","OP-CODE Fetch","","",
+"477.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"479.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"481.0","00.DE70","FFB7"," INVALID_OPCODE","10.000417 ms
+10.000417 ms","0000",
+"","","","OP-CODE Fetch","","",
+"483.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"485.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"487.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"489.0","00.DE70","FFB7"," INVALID_OPCODE","10.002067 ms
+10.002067 ms","0000",
+"","","","OP-CODE Fetch","","",
+"491.0","00.DE70","FFB7"," INVALID_OPCODE","9.998517 ms
+9.998517 ms","0000",
+"","","","OP-CODE Fetch","","",
+"493.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"495.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"497.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"499.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"501.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"503.0","00.DE70","FFB7"," INVALID_OPCODE","10.000467 ms
+10.000467 ms","0000",
+"","","","OP-CODE Fetch","","",
+"505.0","00.DE70","FFB7"," INVALID_OPCODE","10.000150 ms
+10.000150 ms","0000",
+"","","","OP-CODE Fetch","","",
+"507.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"509.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"511.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"513.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"515.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"517.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"519.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"521.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"523.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"525.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"527.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"529.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"531.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"533.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"535.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"537.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"539.0","00.DE70","FFB7"," INVALID_OPCODE","10.000417 ms
+10.000417 ms","0000",
+"","","","OP-CODE Fetch","","",
+"541.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"543.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"545.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"547.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"549.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"551.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"553.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"555.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"557.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"559.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"561.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"563.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"565.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"567.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"569.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"571.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"573.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"575.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"577.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"579.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"581.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"583.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"585.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"587.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"589.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"591.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"593.0","00.DE70","FFB7"," INVALID_OPCODE","10.000484 ms
+10.000484 ms","0000",
+"","","","OP-CODE Fetch","","",
+"595.0","00.DE70","FFB7"," INVALID_OPCODE","10.000166 ms
+10.000166 ms","0000",
+"","","","OP-CODE Fetch","","",
+"597.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"599.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"601.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"603.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"605.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"607.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"609.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"611.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"613.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"615.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"617.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"619.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"621.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"623.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"625.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"627.0","00.DE70","FFB7"," INVALID_OPCODE","10.000600 ms
+10.000600 ms","0000",
+"","","","OP-CODE Fetch","","",
+"629.0","00.DE70","FFB7"," INVALID_OPCODE","10.000033 ms
+10.000033 ms","0000",
+"","","","OP-CODE Fetch","","",
+"631.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"633.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"635.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"637.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"639.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"641.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"643.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"645.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"647.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"649.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"651.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"653.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"655.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"657.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"659.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"661.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"663.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"665.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"667.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"669.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"671.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"673.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"675.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"677.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"679.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"681.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"683.0","00.DE70","FFB7"," INVALID_OPCODE","10.005650 ms
+10.005650 ms","0000",
+"","","","OP-CODE Fetch","","",
+"685.0","00.DE70","FFB7"," INVALID_OPCODE","9.994967 ms
+9.994967 ms","0000",
+"","","","OP-CODE Fetch","","",
+"687.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"689.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"691.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"693.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"695.0","00.DE70","FFB7"," INVALID_OPCODE","10.000634 ms
+10.000634 ms","0000",
+"","","","OP-CODE Fetch","","",
+"697.0","00.DE70","FFB7"," INVALID_OPCODE","9.999933 ms
+9.999933 ms","0000",
+"","","","OP-CODE Fetch","","",
+"699.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"701.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"703.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"705.0","00.DE70","FFB7"," INVALID_OPCODE","10.000433 ms
+10.000433 ms","0000",
+"","","","OP-CODE Fetch","","",
+"707.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"709.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"711.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"713.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"715.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"717.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"719.0","00.DE70","FFB7"," INVALID_OPCODE","10.000434 ms
+10.000434 ms","0000",
+"","","","OP-CODE Fetch","","",
+"721.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"723.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"725.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"727.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"729.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"731.0","00.DE70","FFB7"," INVALID_OPCODE","10.000216 ms
+10.000216 ms","0000",
+"","","","OP-CODE Fetch","","",
+"733.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"735.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"737.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"739.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"741.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"743.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"745.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"747.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"749.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"751.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"753.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"755.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"757.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"759.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"761.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"763.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"765.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"767.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"769.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"771.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"773.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"775.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"777.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"779.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"781.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"783.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"785.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"787.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"789.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"791.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"793.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"795.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"797.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"799.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"801.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"803.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"805.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"807.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"809.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"811.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"813.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"815.0","00.DE70","FFB7"," INVALID_OPCODE","10.000433 ms
+10.000433 ms","0000",
+"","","","OP-CODE Fetch","","",
+"817.0","00.DE70","FFB7"," INVALID_OPCODE","10.000133 ms
+10.000133 ms","0000",
+"","","","OP-CODE Fetch","","",
+"819.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"821.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"823.0","00.DE70","FFB7"," INVALID_OPCODE","10.000550 ms
+10.000550 ms","0000",
+"","","","OP-CODE Fetch","","",
+"825.0","00.DE70","FFB7"," INVALID_OPCODE","10.000017 ms
+10.000017 ms","0000",
+"","","","OP-CODE Fetch","","",
+"827.0","00.DE70","FFB7"," INVALID_OPCODE","10.000366 ms
+10.000366 ms","0000",
+"","","","OP-CODE Fetch","","",
+"829.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"831.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"833.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"835.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"837.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"839.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"841.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"843.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"845.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"847.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"849.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"851.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"853.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"855.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"857.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"859.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"861.0","00.DE70","FFB7"," INVALID_OPCODE","10.001200 ms
+10.001200 ms","0000",
+"","","","OP-CODE Fetch","","",
+"863.0","00.DE70","FFB7"," INVALID_OPCODE","9.999466 ms
+9.999466 ms","0000",
+"","","","OP-CODE Fetch","","",
+"865.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"867.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"869.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"871.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"873.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"875.0","00.DE70","FFB7"," INVALID_OPCODE","10.003933 ms
+10.003933 ms","0000",
+"","","","OP-CODE Fetch","","",
+"877.0","00.DE70","FFB7"," INVALID_OPCODE","9.996683 ms
+9.996683 ms","0000",
+"","","","OP-CODE Fetch","","",
+"879.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"881.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"883.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"885.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"887.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"889.0","00.DE70","FFB7"," INVALID_OPCODE","10.000417 ms
+10.000417 ms","0000",
+"","","","OP-CODE Fetch","","",
+"891.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"893.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"895.0","00.DE70","FFB7"," INVALID_OPCODE","10.000366 ms
+10.000366 ms","0000",
+"","","","OP-CODE Fetch","","",
+"897.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"899.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"901.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"903.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"905.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"907.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"909.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"911.0","00.DE70","FFB7"," INVALID_OPCODE","10.000416 ms
+10.000416 ms","0000",
+"","","","OP-CODE Fetch","","",
+"913.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"915.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"917.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"919.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"921.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"923.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"925.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"927.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"929.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"931.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"933.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"935.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"937.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"939.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"941.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"943.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"945.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"947.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"949.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"951.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"953.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"955.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"957.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"959.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"961.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"963.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"965.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"967.0","00.DE70","FFB7"," INVALID_OPCODE","10.000417 ms
+10.000417 ms","0000",
+"","","","OP-CODE Fetch","","",
+"969.0","00.DE70","FFB7"," INVALID_OPCODE","10.000200 ms
+10.000200 ms","0000",
+"","","","OP-CODE Fetch","","",
+"971.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"973.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"975.0","00.DE70","FFB7"," INVALID_OPCODE","10.000334 ms
+10.000334 ms","0000",
+"","","","OP-CODE Fetch","","",
+"977.0","00.DE70","FFB7"," INVALID_OPCODE","10.000283 ms
+10.000283 ms","0000",
+"","","","OP-CODE Fetch","","",
+"979.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"981.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"983.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"985.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"987.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"989.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"991.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"993.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"995.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"997.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"999.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1001.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1003.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1005.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1007.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1009.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1011.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1013.0","00.DE70","FFB7"," INVALID_OPCODE","10.000150 ms
+10.000150 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1015.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1017.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1019.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1021.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1023.0","00.DE70","FFB7"," INVALID_OPCODE","10.004800 ms
+10.004800 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1025.0","00.DE70","FFB7"," INVALID_OPCODE","9.995816 ms
+9.995816 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1027.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1029.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1031.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1033.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1035.0","00.DE70","FFB7"," INVALID_OPCODE","10.000200 ms
+10.000200 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1037.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1039.0","00.DE70","FFB7"," INVALID_OPCODE","10.000367 ms
+10.000367 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1041.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1043.0","00.DE70","FFB7"," INVALID_OPCODE","10.000217 ms
+10.000217 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1045.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1047.0","00.DE70","FFB7"," INVALID_OPCODE","10.000383 ms
+10.000383 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1049.0","00.DE70","FFB7"," INVALID_OPCODE","10.000233 ms
+10.000233 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1051.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1053.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1055.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1057.0","00.DE70","FFB7"," INVALID_OPCODE","10.000600 ms
+10.000600 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1059.0","00.DE70","FFB7"," INVALID_OPCODE","9.999983 ms
+9.999983 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1061.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1063.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1065.0","00.DE70","FFB7"," INVALID_OPCODE","10.000434 ms
+10.000434 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1067.0","00.DE70","FFB7"," INVALID_OPCODE","10.000166 ms
+10.000166 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1069.0","00.DE70","FFB7"," INVALID_OPCODE","10.000234 ms
+10.000234 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1071.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1073.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1075.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1077.0","00.DE70","FFB7"," INVALID_OPCODE","10.000433 ms
+10.000433 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1079.0","00.DE70","FFB7"," INVALID_OPCODE","10.000167 ms
+10.000167 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1081.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1083.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1085.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1087.0","00.DE70","FFB7"," INVALID_OPCODE","10.000266 ms
+10.000266 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1089.0","00.DE70","FFB7"," INVALID_OPCODE","10.000400 ms
+10.000400 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1091.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1093.0","00.DE70","FFB7"," INVALID_OPCODE","10.000183 ms
+10.000183 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1095.0","00.DE70","FFB7"," INVALID_OPCODE","10.000333 ms
+10.000333 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1097.0","00.DE70","FFB7"," INVALID_OPCODE","10.000284 ms
+10.000284 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1099.0","00.DE70","FFB7"," INVALID_OPCODE","10.000583 ms
+10.000583 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1101.0","00.DE70","FFB7"," INVALID_OPCODE","10.000000 ms
+10.000000 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1103.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1105.0","00.DE70","FFB7"," INVALID_OPCODE","10.000267 ms
+10.000267 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1107.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1109.0","00.DE70","FFB7"," INVALID_OPCODE","10.000366 ms
+10.000366 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1111.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1113.0","00.DE70","FFB7"," INVALID_OPCODE","10.000384 ms
+10.000384 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1115.0","00.DE70","FFB7"," INVALID_OPCODE","10.000133 ms
+10.000133 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1117.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1119.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1121.0","00.DE70","FFB7"," INVALID_OPCODE","10.000316 ms
+10.000316 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1123.0","00.DE70","FFB7"," INVALID_OPCODE","10.000250 ms
+10.000250 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1125.0","00.DE70","FFB7"," INVALID_OPCODE","10.000317 ms
+10.000317 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1127.0","00.DE70","FFB7"," INVALID_OPCODE","10.000300 ms
+10.000300 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1129.0","00.DE70","FFB7"," INVALID_OPCODE","10.000350 ms
+10.000350 ms","0000",
+"","","","OP-CODE Fetch","","",
+"1131.0","00.DE70","FFB7"," INVALID_OPCODE",">1 ns
+>1 ns","0000",
+"","","","OP-CODE Fetch","","",
